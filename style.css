@@ -1,0 +1,56 @@
+/* css reset */
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    margin: 0.5 1rem;
+    padding: 0 1rem;
+}
+h3 {
+    margin: 0.5rem;
+    padding: 0 0.5rem 1rem;
+}
+.selection {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+#scoreBoard {
+    margin: 1rem;
+    padding: 3rem 2rem;
+}
+.score {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-size: 3rem;
+}
+.option {
+    padding: 1em;
+}
+#reset {
+    padding: 1em;
+}
+.start, .end {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-size: 3rem;
+}
