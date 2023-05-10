@@ -1,1 +1,1 @@
-<h1><a href="https://karnesv.github.io/rockPaperScissors/">demo: https://karnesv.github.io/rockPaperScissors</a></h1>
+<h1><a href="https://karnesv.github.io/rockPaperScissors/">DEMO: rockPaperScissors</a></h1>
